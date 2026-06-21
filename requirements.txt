@@ -1,0 +1,9 @@
+pandas>=2.0
+numpy>=1.24
+Faker>=20.0
+rapidfuzz>=3.0
+networkx>=3.0
+streamlit>=1.30
+plotly>=5.18
+reportlab>=4.0
+pypdf>=4.0
