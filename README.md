@@ -146,12 +146,4 @@ The dashboard sidebar includes a Demo Mode panel with five injection buttons (Of
 
 ---
 
-## Screenshots
 
-*(placeholder — capture from a live `streamlit run app.py` session)*
-
-- `screenshots/executive_overview.png`
-- `screenshots/identity_risk_registry.png`
-- `screenshots/identity_graph_explorer.png`
-- `screenshots/incident_investigation.png`
-- `screenshots/offboarding_monitor.png`
